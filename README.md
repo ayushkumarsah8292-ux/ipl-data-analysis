@@ -89,11 +89,3 @@ Also some corrupt datas were handled.
    git clone https://github.com/yourusername/ipl-analysis.git
    cd ipl-analysis
    
-## 👤 Contributer
- <a href="https://github.com/ritesh-begin">
-  <img src="https://github.com/ritesh-begin.png" width="100" height="100">
-  <br>
-  <sub><b>Ritesh Kr. Pandit</b><br>B.Tech Student · Developer · Analyst</sub>
-</a>
-(https://github.com/ritesh-begin) 
-
